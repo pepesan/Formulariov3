@@ -43,8 +43,7 @@
                     android:id="@+id/edittext"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:hint="numero de telefono"
-                    android:inputType="phone" />
+                    android:hint="numero de telefono" />
 
                 <TextView
                     android:id="@+id/textView4"
